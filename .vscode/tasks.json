@@ -1,15 +1,26 @@
 {
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "build",
-            "command": "dotnet",
-            "type": "process",
+            "label": "echo",
+            "type": "shell",
+            "command": "g++",
             "args": [
-                "build",
-                "${workspaceFolder}/1.7_enums/1.7_enums.csproj"
+                "-g",
+                "1.8_inheriance/main.cpp",
+                "1.8_inheriance/Test.h",
+                "1.8_inheriance/Test.cpp",
+                "1.8_inheriance/Exam.h",
+                "1.8_inheriance/Exam.cpp",
+                "1.8_inheriance/Offset.h",
+                "1.8_inheriance/Offset.cpp"
             ],
-            "problemMatcher": "$msCompile"
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
         }
     ]
 }
