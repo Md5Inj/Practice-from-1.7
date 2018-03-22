@@ -1,0 +1,10 @@
+/home/md5inj/Рабочий стол/practice/task2/bin/Debug/netcoreapp2.0/task2.deps.json
+/home/md5inj/Рабочий стол/practice/task2/bin/Debug/netcoreapp2.0/task2.runtimeconfig.json
+/home/md5inj/Рабочий стол/practice/task2/bin/Debug/netcoreapp2.0/task2.runtimeconfig.dev.json
+/home/md5inj/Рабочий стол/practice/task2/bin/Debug/netcoreapp2.0/task2.dll
+/home/md5inj/Рабочий стол/practice/task2/bin/Debug/netcoreapp2.0/task2.pdb
+/home/md5inj/Рабочий стол/practice/task2/obj/Debug/netcoreapp2.0/task2.csproj.CoreCompileInputs.cache
+/home/md5inj/Рабочий стол/practice/task2/obj/Debug/netcoreapp2.0/task2.AssemblyInfoInputs.cache
+/home/md5inj/Рабочий стол/practice/task2/obj/Debug/netcoreapp2.0/task2.AssemblyInfo.cs
+/home/md5inj/Рабочий стол/practice/task2/obj/Debug/netcoreapp2.0/task2.dll
+/home/md5inj/Рабочий стол/practice/task2/obj/Debug/netcoreapp2.0/task2.pdb

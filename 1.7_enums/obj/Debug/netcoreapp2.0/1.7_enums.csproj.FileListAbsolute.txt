@@ -1,0 +1,10 @@
+/home/md5inj/Рабочий стол/practice/1.7_enums/bin/Debug/netcoreapp2.0/1.7_enums.deps.json
+/home/md5inj/Рабочий стол/practice/1.7_enums/bin/Debug/netcoreapp2.0/1.7_enums.runtimeconfig.json
+/home/md5inj/Рабочий стол/practice/1.7_enums/bin/Debug/netcoreapp2.0/1.7_enums.runtimeconfig.dev.json
+/home/md5inj/Рабочий стол/practice/1.7_enums/bin/Debug/netcoreapp2.0/1.7_enums.dll
+/home/md5inj/Рабочий стол/practice/1.7_enums/bin/Debug/netcoreapp2.0/1.7_enums.pdb
+/home/md5inj/Рабочий стол/practice/1.7_enums/obj/Debug/netcoreapp2.0/1.7_enums.csproj.CoreCompileInputs.cache
+/home/md5inj/Рабочий стол/practice/1.7_enums/obj/Debug/netcoreapp2.0/1.7_enums.AssemblyInfoInputs.cache
+/home/md5inj/Рабочий стол/practice/1.7_enums/obj/Debug/netcoreapp2.0/1.7_enums.AssemblyInfo.cs
+/home/md5inj/Рабочий стол/practice/1.7_enums/obj/Debug/netcoreapp2.0/1.7_enums.dll
+/home/md5inj/Рабочий стол/practice/1.7_enums/obj/Debug/netcoreapp2.0/1.7_enums.pdb
