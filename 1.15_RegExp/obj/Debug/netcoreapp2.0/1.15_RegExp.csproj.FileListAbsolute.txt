@@ -1,0 +1,10 @@
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/bin/Debug/netcoreapp2.0/1.15_RegExp.deps.json
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/bin/Debug/netcoreapp2.0/1.15_RegExp.runtimeconfig.json
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/bin/Debug/netcoreapp2.0/1.15_RegExp.runtimeconfig.dev.json
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/bin/Debug/netcoreapp2.0/1.15_RegExp.dll
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/bin/Debug/netcoreapp2.0/1.15_RegExp.pdb
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/obj/Debug/netcoreapp2.0/1.15_RegExp.csproj.CoreCompileInputs.cache
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/obj/Debug/netcoreapp2.0/1.15_RegExp.AssemblyInfoInputs.cache
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/obj/Debug/netcoreapp2.0/1.15_RegExp.AssemblyInfo.cs
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/obj/Debug/netcoreapp2.0/1.15_RegExp.dll
+/home/md5inj/Рабочий стол/practice/1.15_RegExp/obj/Debug/netcoreapp2.0/1.15_RegExp.pdb
