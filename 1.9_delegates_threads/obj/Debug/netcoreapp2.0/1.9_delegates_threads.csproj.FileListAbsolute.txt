@@ -1,0 +1,10 @@
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/bin/Debug/netcoreapp2.0/1.9_delegates_threads.deps.json
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/bin/Debug/netcoreapp2.0/1.9_delegates_threads.runtimeconfig.json
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/bin/Debug/netcoreapp2.0/1.9_delegates_threads.runtimeconfig.dev.json
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/bin/Debug/netcoreapp2.0/1.9_delegates_threads.dll
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/bin/Debug/netcoreapp2.0/1.9_delegates_threads.pdb
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/obj/Debug/netcoreapp2.0/1.9_delegates_threads.csproj.CoreCompileInputs.cache
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/obj/Debug/netcoreapp2.0/1.9_delegates_threads.AssemblyInfoInputs.cache
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/obj/Debug/netcoreapp2.0/1.9_delegates_threads.AssemblyInfo.cs
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/obj/Debug/netcoreapp2.0/1.9_delegates_threads.dll
+/home/md5inj/Рабочий стол/practice/1.9_delegates_threads/obj/Debug/netcoreapp2.0/1.9_delegates_threads.pdb
