@@ -135,74 +135,54 @@ namespace task2
             }
         }
 
-        class Rational : IMathObject<Rational, int>
+        class Vector : IMathObject<Vector, int>
         {
-            int Numenator;
-            int Denumenator;
-            public Rational()
+            private int X;
+            private int Z;
+            private int Y;
+            public Vector()
             {
                 Random random = new Random();
-                this.Numenator = random.Next(-10, 10);
-                this.Denumenator = random.Next(-10, 10);
+                this.X = random.Next(-10, 10);
+                this.Y = random.Next(-10, 10);
+                this.Z = random.Next(-10, 10);
             }
-            public Rational Add(Rational a, Rational b)
+
+            public Vector Add(Vector a, Vector b)
             {
-                if (a.Denumenator == b.Denumenator)
-                {
-                    a.Numenator = a.Numenator + b.Numenator;
-                } 
-                else
-                {
-                    int temp = a.Denumenator;
-                    a.Numenator *= b.Denumenator;
-                    a.Denumenator *= b.Denumenator;
-
-                    b.Denumenator *= temp;
-                    b.Numenator *= temp;
-
-                    a.Numenator = a.Numenator + b.Numenator;
-                }
-
+                a.X += b.X;
+                a.Y += b.Y;
+                a.Z += b.Z;
                 return a;
             }
 
-            public Rational Multiply(Rational a, Rational b)
+            public Vector Multiply(Vector a, Vector b)
             {
-                a.Numenator *= b.Numenator;
-                a.Denumenator *= b.Denumenator;
+                a.X *= b.X;
+                a.Y *= b.Y;
+                a.Z *= a.Z;
+                return a;                
+            }
+
+            public Vector Multiply(Vector a, int val)
+            {
+                a.X *= val;
+                a.Y *= val;
+                a.Z *= val;
+                return a;  
+            }
+
+            public Vector Subtract(Vector a, Vector b)
+            {
+                a.X -= b.X;
+                a.Y -= b.Y;
+                a.Z -= b.Z;
                 return a;
             }
 
-            public Rational Multiply(Rational a, int val)
-            {
-                a.Numenator *= val;
-                return a;
-            }
-
-            public Rational Subtract(Rational a, Rational b)
-            {
-                if (a.Denumenator == b.Denumenator)
-                {
-                    a.Numenator = a.Numenator + b.Numenator;
-                } 
-                else
-                {
-                    int temp = a.Denumenator;
-                    a.Numenator *= b.Denumenator;
-                    a.Denumenator *= b.Denumenator;
-
-                    b.Denumenator *= temp;
-                    b.Numenator *= temp;
-
-                    a.Numenator = a.Numenator - b.Numenator;
-                }
-
-                return a;
-            }
-            
             public override string ToString()
             {
-                return String.Format($"{this.Numenator}/{this.Denumenator}");
+                return String.Format($"X: {this.X} Y:{this.Y} Z:{this.Z}");
             }
         }
 
@@ -218,14 +198,14 @@ namespace task2
             Console.WriteLine($"*: {p.Multiply(p, 5)}");
 
 
-            Rational r = new Rational();
+            Vector r = new Vector();
             Console.WriteLine($"r:\n{r}");
-            Rational b = new Rational();
-            Console.WriteLine($"b:\n{b}");
-            Console.WriteLine($"+: {r.Add(r, b)}");
-            Console.WriteLine($"-: {r.Subtract(r, b)}");
-            Console.WriteLine($"*: {r.Multiply(r, b)}");
-            Console.WriteLine($"*: {r.Multiply(r, 2)}");
+            Vector vector = new Vector();
+            Console.WriteLine($"v:\n{vector}");
+            Console.WriteLine(r.Add(r, vector));
+            Console.WriteLine(r.Multiply(r, vector));
+            Console.WriteLine(r.Multiply(r, 2));
+            Console.WriteLine(r.Subtract(r, vector));
             Console.ReadKey();
         }
     }

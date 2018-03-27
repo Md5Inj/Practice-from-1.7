@@ -1,0 +1,10 @@
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/obj/Debug/netcoreapp2.0/1.10_multithreading.csproj.CoreCompileInputs.cache
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/obj/Debug/netcoreapp2.0/1.10_multithreading.AssemblyInfoInputs.cache
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/obj/Debug/netcoreapp2.0/1.10_multithreading.AssemblyInfo.cs
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/bin/Debug/netcoreapp2.0/1.10_multithreading.deps.json
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/bin/Debug/netcoreapp2.0/1.10_multithreading.runtimeconfig.json
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/bin/Debug/netcoreapp2.0/1.10_multithreading.runtimeconfig.dev.json
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/bin/Debug/netcoreapp2.0/1.10_multithreading.dll
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/bin/Debug/netcoreapp2.0/1.10_multithreading.pdb
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/obj/Debug/netcoreapp2.0/1.10_multithreading.dll
+/home/md5inj/Рабочий стол/practice/1.10_multithreading/obj/Debug/netcoreapp2.0/1.10_multithreading.pdb
