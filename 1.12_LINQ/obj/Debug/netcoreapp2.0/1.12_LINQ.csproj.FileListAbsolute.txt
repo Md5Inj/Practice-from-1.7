@@ -1,0 +1,10 @@
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/bin/Debug/netcoreapp2.0/1.12_LINQ.deps.json
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/bin/Debug/netcoreapp2.0/1.12_LINQ.runtimeconfig.json
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/bin/Debug/netcoreapp2.0/1.12_LINQ.runtimeconfig.dev.json
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/bin/Debug/netcoreapp2.0/1.12_LINQ.dll
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/bin/Debug/netcoreapp2.0/1.12_LINQ.pdb
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/obj/Debug/netcoreapp2.0/1.12_LINQ.csproj.CoreCompileInputs.cache
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/obj/Debug/netcoreapp2.0/1.12_LINQ.AssemblyInfoInputs.cache
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/obj/Debug/netcoreapp2.0/1.12_LINQ.AssemblyInfo.cs
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/obj/Debug/netcoreapp2.0/1.12_LINQ.dll
+/home/md5inj/Рабочий стол/practice/1.12_LINQ/obj/Debug/netcoreapp2.0/1.12_LINQ.pdb
